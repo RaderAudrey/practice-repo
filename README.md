@@ -1,3 +1,3 @@
 # practice-repo
 
-practicing working in github :coffee: 😄
+practicing working in github :coffee: :leaves:
